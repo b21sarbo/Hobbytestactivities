@@ -44,6 +44,7 @@ public class ProfileActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Log.d("==>", "Signout button pressed");
+                finish();
             }
         });
 
