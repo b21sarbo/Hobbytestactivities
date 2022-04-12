@@ -15,7 +15,7 @@
         android:text="Ange Namn"
         tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="343dp"
-        app:layout_constraintBottom_toTopOf="@+id/signin_label"
+        app:layout_constraintTop_toBottomOf="@+id/signin_label"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
 
@@ -38,7 +38,7 @@
         tools:layout_editor_absoluteX="176dp"
         tools:layout_editor_absoluteY="258dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
