@@ -38,6 +38,7 @@
         tools:layout_editor_absoluteX="176dp"
         tools:layout_editor_absoluteY="258dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toTopOf="parent" />
+        app:layout_constraintEnd_toTopOf="parent"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
